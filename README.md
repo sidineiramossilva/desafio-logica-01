@@ -12,5 +12,4 @@ Basta rodar o comando:
 
 ````
 node tests/calculoDesconto.test.js
-
 ````
