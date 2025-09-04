@@ -6,6 +6,12 @@ Como funciona
 ---
 Função vai receber o valor da compra e o percentual de desconto, retornando o valor final da compra com desconto aplicado.
 
+Como usar
+---
+Clone o repositório com o comando git clone
+````
+https://github.com/sidineiramossilva/desafio-logica-01
+````
 Como testar
 ---
 Basta rodar o comando:
